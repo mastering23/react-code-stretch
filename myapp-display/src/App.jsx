@@ -6,8 +6,8 @@ function App() {
 
   return (
     <>
-      <h1>TESTING</h1>
-      
+      <h1>Hava a Great Day!</h1>
+
       <GreetingDisplay />
 
     </>
