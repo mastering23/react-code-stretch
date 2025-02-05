@@ -1,14 +1,18 @@
-import { useState } from 'react'
+
+import GreetingDisplay from './GreetingComponent.Jsx';
 import './index.css'
 
 function App() {
-  const [count, setCount] = useState(0)
 
   return (
     <>
       <h1>TESTING</h1>
+      
+      <GreetingDisplay />
+
     </>
   )
 }
 
-export default App
+export default App;
+
